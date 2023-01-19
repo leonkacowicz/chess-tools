@@ -5,10 +5,10 @@ for a series of packages intended to support the development of general purpose 
 1) [chess-core](https://github.com/leonkacowicz/chess-core):
    This package implements the foundational code that implements the basic chess abstractions. 
    It also implements a fast move generation function using techniques like magic-bitboards, 
-   zobrist hashing and also fen encoding/decoding.
+   zobrist hashing and also FEN encoding/decoding.
 2) [chess-arbiter](https://github.com/leonkacowicz/chess-arbiter):
-   This package implements a chess-arbiter: an executable that executes 2 UCI-compatible chess  
-   engines (treated as black boxes) and makes them play against each other. It's useful to 
+   This package implements a chess-arbiter: an executable that executes 2 UCI-compatible chess 
+   engines (treated as black boxes) and makes them play against each other. It's useful to
    assess the rating of one chess-engine against another. 
 3) [chess-uci](https://github.com/leonkacowicz/chess-uci):
    This package implements a library for communicating between a chess front-end/arbiter
