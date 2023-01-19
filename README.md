@@ -1,6 +1,6 @@
 # What is this?
 This is a meta package that contains links and general documentation
-of a series packages intended to support the development of general purpose chess engines and tools.
+for a series of packages intended to support the development of general purpose chess engines and tools.
 
 1) [chess-core](https://github.com/leonkacowicz/chess-core):
    This package implements the foundational code that implements the basic chess abstractions. 
