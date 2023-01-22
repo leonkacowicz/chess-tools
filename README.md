@@ -60,5 +60,5 @@ make
 
 # Testing
 All tests implemented in each package are located in the `test/` directory. Each package
-contain a main function that invoke all the tests and a CMake target that creates an executable
+contains a main function that invoke all the tests and a CMake target that creates an executable
 with this main function.
